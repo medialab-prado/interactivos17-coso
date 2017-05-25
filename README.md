@@ -23,9 +23,9 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
 # Promotores y colaboradores: 
 ### Equipo: 
-+ Pablo Fernández Vallejo 
++ Pablo Fernández Vallejo @pablitofv
 + Mariana Robles
-+ Roberto Rodríguez`
++ Roberto Rodríguez (https://www.behance.net/robertoerre), 
 + Daniel Rosero 
 + Michael Sandoval
 # Instrucciones

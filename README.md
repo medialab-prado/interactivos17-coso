@@ -47,6 +47,8 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + [Link a los planos](http://www.atopedecarto.com)
 + [Link al blog](http://www.mibloglopeta.com)
 ### Bibliografía, otros repositorios y links: 
+### Inspiración
++ http://www.yourban.no/2011/02/22/immaterials-light-painting-wifi/
 + http://openframeworks.cc/
 + https://libcinder.org/
 # Diario del proceso

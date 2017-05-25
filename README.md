@@ -27,9 +27,10 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Nikola Tesla (www.atopedealterna.com)
 + Austin Powers
 ### Colaboradores
-+ Michael Knight 
-+ Steven Seagal (wanna@challenge.me)
-+ Los Chunguitos
++ Mariana Robles
++ Roberto Rodríguez`
++ Daniel Rosero 
++ Michael Sandoval
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita

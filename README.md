@@ -1,5 +1,9 @@
 # interactivos17-coso
 
 ## Idea
-asd
+
 ### Implementación
+
+# Equipo
+
+-Miembro 1

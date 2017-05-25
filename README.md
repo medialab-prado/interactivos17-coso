@@ -22,11 +22,8 @@ Explicar aquí el porqué del proyecto, el concepto.
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
 # Promotores y colaboradores: 
-### Equipos: 
-+ Pepa Pig (pepa@pig.com)
-+ Nikola Tesla (www.atopedealterna.com)
-+ Austin Powers
-### Colaboradores
+### Equipo: 
++ Pablo Fernández Vallejo 
 + Mariana Robles
 + Roberto Rodríguez`
 + Daniel Rosero 

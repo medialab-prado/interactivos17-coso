@@ -33,7 +33,7 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 
 # Recursos: 
 ### Repositorios del proyecto:
-+ [Link a las fotos](http://www.flickrPorEjemplo.com)
++ [Fotos del Taller](https://www.flickr.com/photos/medialab-prado/albums/72157681254355863/with/34081752643/)
 + [Link a las videos](http://www.lasalsaeslomas.com)
 + [Link a los planos](http://www.atopedecarto.com)
 + [Link al blog](http://www.mibloglopeta.com)

@@ -1,26 +1,15 @@
 # C.O.S.O · Interactivos?'17 
-![C.O.S.O](http://medialab-prado.es/mmedia/20/20081/500_0.png)
-
-## Idea
-
-### Implementación
-
-# Equipo
-
-* Miembro 1
-* Miembro 1
-* Miembro 1
-* Miembro 1
-* Miembro 1
-
 
 # Descripción del proyecto
-[![ProjectImage](http://medialab-prado.es/mmedia/19/19846/500_0.jpg)](http://projectWeb.com/)
+![C.O.S.O](http://medialab-prado.es/mmedia/20/20081/500_0.png)
+
 ### Idea
 Explicar aquí el porqué del proyecto, el concepto. 
+
 ### Implementación
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
+
 # Promotores y colaboradores: 
 ### Equipo: 
 + Pablo Fernández Vallejo (https://twitter.com/pablitofv)
@@ -28,6 +17,7 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Roberto Rodríguez (https://www.behance.net/robertoerre), 
 + Daniel Rosero 
 + Michael Sandoval
+
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita
@@ -40,6 +30,7 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
 + ¿Utiliza materiales desechables? ¿tintas? ¿papel?
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
+
 # Recursos: 
 ### Repositorios del proyecto:
 + [Link a las fotos](http://www.flickrPorEjemplo.com)
@@ -49,8 +40,10 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 ### Inspiración
 + http://www.yourban.no/2011/02/22/immaterials-light-painting-wifi/
 ### Bibliografía, otros repositorios y links: 
++ https://www.thingiverse.com/thing:17240
 + http://openframeworks.cc/
 + https://libcinder.org/
+
 # Diario del proceso
 ### Semana 1
 Vermut de grifo 

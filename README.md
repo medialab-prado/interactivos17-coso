@@ -1,6 +1,5 @@
 # C.O.S.O · Interactivos?'17 
 
-# Descripción del proyecto
 ![C.O.S.O](http://medialab-prado.es/mmedia/20/20081/500_0.png)
 
 ### Idea
@@ -33,7 +32,8 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 
 # Recursos: 
 ### Repositorios del proyecto:
-+ [Fotos del Taller](https://www.flickr.com/photos/medialab-prado/albums/72157681254355863/with/34081752643/)
++ [Fotos de Interactivos?'17](https://www.flickr.com/photos/medialab-prado/albums/72157681254355863/with/34081752643/)
++ [Fotos del Proyecto](https://flic.kr/s/aHskW7TnQj)
 + [Link a las videos](http://www.lasalsaeslomas.com)
 + [Link a los planos](http://www.atopedecarto.com)
 + [Link al blog](http://www.mibloglopeta.com)
@@ -45,6 +45,9 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + https://libcinder.org/
 
 # Diario del proceso
+
+### Preproyecto
+
 ### Semana 1
 Vermut de grifo 
 ### Semana 2

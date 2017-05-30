@@ -1,6 +1,6 @@
 # C.O.S.O · Interactivos?'17 
 
-![C.O.S.O](http://medialab-prado.es/mmedia/20/20081/500_0.png)
+![C.O.S.O](https://flic.kr/p/TXchrv)
 
 ### Idea
 Explicar aquí el porqué del proyecto, el concepto. 

@@ -2,12 +2,41 @@
 
 ![C.O.S.O](https://flic.kr/p/TXchrv)
 
-### Idea
-Explicar aquí el porqué del proyecto, el concepto. 
+### Resúmen
+Pensar en movilidad implica reflexionar cómo el entorno de la ciudad implica la existencia de barreras o facilitadores que afectan la forma en que circulamos por la urbe. 
 
-### Implementación
-Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
-(Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
+C.O.S.O. es resultado del interés por experimentar con la microrelaciones que afectan la movilidad en las grandes ciudades. Específicamente, es una herramienta tecnológica que visibiliza la experiencia de andar en bicicleta que se altera conforme a las distintas texturas del terreno. Para ello, C.O.S.O genera dos experiencias visuales que plasman la interacción entre la bicicleta y el terreno: mapa de datos y fotografías de larga exposición. 
+
+Es un dispositivo tecnológico que por medio de un móvil que captura las vibraciones y las asocia con un punto espacial en concreto. C.O.S.O está conectado a una guía de luces LED que cambian de color con base en las vibraciones que registra el acelerómetro del móvil y por medio de una conexión a internet es capaz de registrar y emitir datos en tiempo real.  
+
+C.O.S.O es un dispositivo que convierte una bicicleta en una herramienta cazadora de datos, un artilugio de diagnóstico para el análisis del entorno, capaz de cuantificar el suelo por el que se traslada.
+
+
+## Concepto
+
+###C.O.S.O en la bicicleta 
+C.O.SO va fijado al cuadro de la bicicleta con el objetivo de registrar las vibraciones que ésta sufre cuando circula por distintos terrenos. En términos simples, C.O.S.O. convierte a la bicicleta en una herramienta de medición que registra las vibraciones y las convierte en un dato que es posible visualizar a través de dos formas: las luces LED y en un mapa. 
+
+###C.O.S.O como sensor 
+Dispositivo tecnológico y de composición minimalista que por medio de un móvil que captura las vibraciones y las asocia con un punto espacial en concreto. C.O.S.O está conectado a una guía de luces LED que cambian de color con base en las vibraciones que registra el acelerómetro del móvil y por medio de una conexión a internet es capaz de registrar y emitir datos en tiempo real.  
+
+###C.O.S.O y los datos 
+C.O.S.O. almacena y procesa los datos que registra a su paso para determinar el estado de la calzada con base en intervalos de vibración que clasifican el terreno en cuatro niveles.  A su vez, estas categorías están asociadas a un código de color de semáforo que visualiza el terreno. 
+En tiempo real, C.O.S.O procesa la información y las luces LED integradas cambian de color con base en las categorías establecidas. Simultáneamente, transmite la información georreferenciada de las vibraciones y con base en las categorías establecidas realiza un mapeo del estado de las calzadas en la ciudad. 
+
+
+##Proceso
+
+###Prototipo
+Contenedor diseñado digitalmente y elaborado con cortado láser a partir de una placa de MDF de 3mm de espesor. En el interior contiene un móvil Android con acelerómetro y GPS que está conectado vía Bluetooth con un microcontrolador Arduino. El microcontrolador está conectado directamente a una guía de LEDs de alta intensidad que están alimentados por una batería externa de larga duración. Finalmente, el dispositivo está fijo a una bicicleta por medio de un sistema de bridas. 
+ 
+###Código
+C.O.S.O. se conforma de un sistema software de dos componentes. Primero, se desarrolló una app móvil del sistema Android que recolecta los registros del acelerómetro y GPS del móvil, y utiliza el framework de Google Maps para la georreferenciación de los valores. La app distribuye la información al microcontrolador que está programado para que las luces LED se comporten de forma diferenciada dependiendo de las distintas vibraciones. 
+A su vez, la app envía los valores a una base de datos en Firebase que alimenta un mapa elaborado con el framework de Google Maps en el que se visualizan los recorridos. La ventaja de este sistema es que, en tiempo real, se puede procesar y visualizar el mapeo en la página web. 
+ 
+###Visualización 
+Las fotografías de larga exposición capturan el rastro de luz que deja C.O.S.O. a su paso. Se utiliza esta técnica para poder capturar los cambios de luz que tienen los LEDs a su paso por distintas texturas en el terreno como baches, alcantarillas y empedrados. 
+El mapa interactivo refleja en tiempo real los valores que el C.O.S.O registra mientras circula la bicicleta. El mapa es el compilado de todos los registros que se capturan y permite visualizar las observaciones en conjunto y en cualquier localización. 
 
 # Promotores y colaboradores: 
 ### Equipo: 
@@ -34,9 +63,6 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 ### Repositorios del proyecto:
 + [Fotos de Interactivos?'17](https://www.flickr.com/photos/medialab-prado/albums/72157681254355863/with/34081752643/)
 + [Fotos del Proyecto](https://flic.kr/s/aHskW7TnQj)
-+ [Link a las videos](http://www.lasalsaeslomas.com)
-+ [Link a los planos](http://www.atopedecarto.com)
-+ [Link al blog](http://www.mibloglopeta.com)
 ### Inspiración
 + http://www.yourban.no/2011/02/22/immaterials-light-painting-wifi/
 ### Bibliografía, otros repositorios y links: 

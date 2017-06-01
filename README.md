@@ -40,10 +40,10 @@ El mapa interactivo refleja en tiempo real los valores que el C.O.S.O registra m
 
 # Promotores y colaboradores: 
 ### Equipo: 
-+ Pablo Fernández Vallejo (https://twitter.com/pablitofv)
++ Pablo Fernández Vallejo // https://twitter.com/pablitofv
 + Mariana Robles
-+ Roberto Rodríguez (https://www.behance.net/robertoerre), 
-+ Daniel Rosero 
++ Roberto Rodríguez // https://www.behance.net/robertoerre
++ Daniel Rosero // http://danielrosero.com/
 + Michael Sandoval
 
 # Instrucciones
@@ -53,11 +53,28 @@ El mapa interactivo refleja en tiempo real los valores que el C.O.S.O registra m
 + En qué puntos hay que tener cuidado
 ### Instrucciones de funcionamiento
 + ¿Cómo se enciende? ¿Cómo se apaga?
+- Ver en mantenimiento. 
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
+
 ### Instrucciones de mantenimiento
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
-+ ¿Utiliza materiales desechables? ¿tintas? ¿papel?
+- Tiene un powerbanck que no vamos a usar en la expo. 
+- Usa cargador de tablet. 
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
+- Apagar Arduino con el cargador ( quitar y volver a poner el enchufe)
+- Cerra el App COSO del movil, cerrandolo bien ( no minimizando )
+- Volvemos a conectar el Arduino ( verificar que el modulo bluetooh este titilando )
+- Arrancamos el APpp COSO y el modulo bluetooh deberia dejar de titilar para quedarse estático ( ha conectado bien )
+- Le damos al botón registrar para que el sensor y los LEDS esten activos y respondiendo a la vibración.
+
+Que pasa si el bluetooh se despareja? ... pues que hay que aparejarlo de nuevo: 
+ - settings de smartphone
+ - bluetooh -> COSO ( dispositivos vinculados ) --> settings --> olvidar
+
+Que pasa si quieres provar la instalacion para hacerle la foto de larga exposición?
+- Quitar el candado con la llave que dejamos a cargo de mediacin con un cartelito de COSO! ( hacer )
+- Conectar el powerBank y reiniciar todo para hacer la vuelta. 
+- Ver tutorial para hacer foto de larga exposición -> .... link
 
 # Recursos: 
 ### Repositorios del proyecto:

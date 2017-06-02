@@ -1,7 +1,7 @@
 # C.O.S.O · Interactivos?'17 
 
-+[C.O.S.O Fotos](http://www.flickrPorEjemplo.com)
-+[C.O.S.O Web](http://coso.ga)
++ [C.O.S.O Fotos](http://www.flickrPorEjemplo.com)
++ [C.O.S.O Web](http://coso.ga)
 
 
 ### Resúmen
@@ -59,7 +59,7 @@ El mapa interactivo refleja en tiempo real los valores que el C.O.S.O registra m
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
 - 
 ### Instrucciones de Expo
-+ Video ( falta Video , arranca en windows ) TODO Poner lanzar Video. 
++ Mostrar la web de COSO:  http://coso.ga
 + Prototipo en bici ( ver instrucciones de mantenimiento )
 
 ### Instrucciones de mantenimiento

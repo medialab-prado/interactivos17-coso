@@ -53,28 +53,29 @@ El mapa interactivo refleja en tiempo real los valores que el C.O.S.O registra m
 + En qué puntos hay que tener cuidado
 ### Instrucciones de funcionamiento
 + ¿Cómo se enciende? ¿Cómo se apaga?
-- Ver en mantenimiento. 
+- Ver en Instrucciones de Mantenimiento. 
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
+- 
 
 ### Instrucciones de mantenimiento
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
-- Tiene un powerbanck que no vamos a usar en la expo. 
-- Usa cargador de tablet. 
+1 Tiene un powerbanck que no vamos a usar en la expo. 
+2 Usa cargador de tablet. 
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
-- Apagar Arduino con el cargador ( quitar y volver a poner el enchufe)
-- Cerra el App COSO del movil, cerrandolo bien ( no minimizando )
-- Volvemos a conectar el Arduino ( verificar que el modulo bluetooh este titilando )
-- Arrancamos el APpp COSO y el modulo bluetooh deberia dejar de titilar para quedarse estático ( ha conectado bien )
-- Le damos al botón registrar para que el sensor y los LEDS esten activos y respondiendo a la vibración.
+1 Apagar Arduino con el cargador ( quitar y volver a poner el enchufe)
+2 Cerra el App COSO del movil, cerrandolo bien ( no minimizando )
+3 Volvemos a conectar el Arduino ( verificar que el modulo bluetooh este titilando )
+4 Arrancamos el APpp COSO y el modulo bluetooh deberia dejar de titilar para quedarse estático ( ha conectado bien )
+5 Le damos al botón registrar para que el sensor y los LEDS esten activos y respondiendo a la vibración.
 
 Que pasa si el bluetooh se despareja? ... pues que hay que aparejarlo de nuevo: 
- - settings de smartphone
- - bluetooh -> COSO ( dispositivos vinculados ) --> settings --> olvidar
+1 settings de smartphone
+2 bluetooh -> COSO ( dispositivos vinculados ) --> settings --> olvidar
 
 Que pasa si quieres provar la instalacion para hacerle la foto de larga exposición?
-- Quitar el candado con la llave que dejamos a cargo de mediacin con un cartelito de COSO! ( hacer )
-- Conectar el powerBank y reiniciar todo para hacer la vuelta. 
-- Ver tutorial para hacer foto de larga exposición -> .... link
+1 Quitar el candado con la llave que dejamos a cargo de mediacin con un cartelito de COSO! ( hacer )
+2 Conectar el powerBank y reiniciar todo para hacer la vuelta. 
+3 Ver tutorial para hacer foto de larga exposición -> .... link
 
 # Recursos: 
 ### Repositorios del proyecto:

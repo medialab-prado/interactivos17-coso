@@ -1,7 +1,7 @@
 # C.O.S.O · Interactivos?'17 
 
-[C.O.S.O](http://www.flickrPorEjemplo.com)
-[WEB C.O.S.O](http://coso.ga)
++[C.O.S.O Fotos](http://www.flickrPorEjemplo.com)
++[C.O.S.O Web](http://coso.ga)
 
 
 ### Resúmen

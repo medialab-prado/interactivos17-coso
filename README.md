@@ -1,6 +1,8 @@
 # C.O.S.O · Interactivos?'17 
 
-![C.O.S.O](https://flic.kr/p/TXchrv)
+[C.O.S.O](http://www.flickrPorEjemplo.com)
+[WEB C.O.S.O](http://coso.ga)
+
 
 ### Resúmen
 Pensar en movilidad implica reflexionar cómo el entorno de la ciudad implica la existencia de barreras o facilitadores que afectan la forma en que circulamos por la urbe. 

@@ -1,6 +1,5 @@
 # C.O.S.O · Interactivos?'17 
 
-+ [C.O.S.O Fotos](http://www.flickrPorEjemplo.com)
 + [C.O.S.O Web](http://coso.ga)
 
 
@@ -85,7 +84,9 @@ Que pasa si quieres provar la instalacion para hacerle la foto de larga exposici
 
 # Recursos: 
 ### Repositorios del proyecto:
-+ [Fotos de Interactivos?'17](https://www.flickr.com/photos/medialab-prado/albums/72157681254355863/with/34081752643/)
++ [Fotos de Interactivos?'17:1](https://www.flickr.com/photos/medialab-prado/albums/72157681254355863/with/34081752643/)
++ [Fotos de Interactivos?'17:2](https://www.flickr.com/photos/medialab-prado/sets/72157681434594913)
++ [Fotos de Interactivos?'17:3](https://www.flickr.com/photos/medialab-prado/sets/72157681468757274)
 + [Fotos del Proyecto](https://flic.kr/s/aHskW7TnQj)
 ### Inspiración
 + http://www.yourban.no/2011/02/22/immaterials-light-painting-wifi/
@@ -95,13 +96,5 @@ Que pasa si quieres provar la instalacion para hacerle la foto de larga exposici
 + https://libcinder.org/
 
 # Diario del proceso
-
-### Preproyecto
-
-### Semana 1
-Vermut de grifo 
-### Semana 2
-Bocata de calamares con pacharán de Zarautz
-### Semana 3
-Rave de compilación
+In progress
 

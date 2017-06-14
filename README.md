@@ -65,19 +65,19 @@ Ver las fotos, la bici, y que la tira de LEDS reacciona con la vibración de la 
 ### Instrucciones de mantenimiento
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
    1. Apagar Arduino con el cargador ( quitar y volver a poner el enchufe)
-   2. Cerra el App COSO del movil, cerrandolo bien ( no minimizando )
-   3. Volvemos a conectar el Arduino ( verificar que el modulo bluetooh este titilando )
-   4. Arrancamos el APpp COSO y el modulo bluetooh deberia dejar de titilar para quedarse estático ( ha conectado bien )
-   5. Le damos al botón registrar para que el sensor y los LEDS esten activos y respondiendo a la vibración.
+   2. Cerra el App COSO del móvil, cerrandolo bien ( no minimizando )
+   3. Volvemos a conectar el Arduino ( verificar que el modulo bluetooth este titilando )
+   4. Arrancamos el App COSO y el módulo bluetooth debería dejar de titilar para quedarse estático ( ha conectado bien )
+   5. Le damos al botón registrar para que el sensor y los LEDS estén activos y respondiendo a la vibración.
 
-Que pasa si el bluetooh se despareja? ... pues que hay que aparejarlo de nuevo: 
+Que pasa si el bluetooth se despareja? ... pues que hay que emparejarlo de nuevo 
    1. settings de smartphone
-   2. bluetooh -> COSO ( dispositivos vinculados ) --> settings --> olvidar
+   2. bluetooth -> COSO ( dispositivos vinculados ) --> settings --> olvidar
    3. finalmente emparejarlo de nuevo con contraseña "1234"
 
 Que pasa si quieres provar la instalacion para hacerle la foto de larga exposición?
-   1. Quitar el candado con la llave que dejamos a cargo de mediacin con un cartelito de COSO! ( hacer )
-   2. Conectar el powerBank en vez de cargador al movil, reiniciar el App. 
+   1. Conectar el powerBank en vez de cargador al movil, reiniciar el App.
+   2. Quitar el candado con la llave que dejamos a cargo de mediación con un cartelito de COSO! ( por hacer )
 
 # Recursos: 
 ### Repositorios del proyecto:
